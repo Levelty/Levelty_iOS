@@ -1,0 +1,48 @@
+PODS:
+  - Adapty (1.17.7)
+  - Alamofire (5.6.2)
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - lottie-ios (3.4.3)
+  - SDWebImage (5.13.3):
+    - SDWebImage/Core (= 5.13.3)
+  - SDWebImage/Core (5.13.3)
+  - SwiftAlgorithms (1.0.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Adapty
+  - Alamofire
+  - Charts
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - SDWebImage
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Adapty
+    - Alamofire
+    - Charts
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - SDWebImage
+    - SwiftAlgorithms
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Adapty: 7b0d95d78b86df348dd9c488c6955624f671e53a
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  lottie-ios: 9ae750cdc7820fecbd3c2f0cfc493038208fcdc4
+  SDWebImage: af5bbffef2cde09f148d826f9733dcde1a9414cd
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 941efd3b39502989be4f48f75c3db56e2d6d7cd8
+
+COCOAPODS: 1.11.2
